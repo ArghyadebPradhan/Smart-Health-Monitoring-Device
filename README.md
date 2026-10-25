@@ -146,12 +146,15 @@ Choose a license before making the repository public. See `LICENSE_CHOOSE.txt`. 
 <img width="717" height="1035" alt="device" src="https://github.com/user-attachments/assets/5dadd763-2ff9-4104-9419-8a064c2e2b2e" />
 
 ## VITALBAND APP
-<img width="529" height="1600" alt="APP_SC_9" src="https://github.com/user-attachments/assets/906465a1-5102-4119-896d-b60cd8e6f7f0" />
-<img width="533" height="1600" alt="APP_SC_8" src="https://github.com/user-attachments/assets/8adc039d-8e4f-4c07-9b84-d37ced528d9f" />
-<img width="699" height="1600" alt="APP_SC_7" src="https://github.com/user-attachments/assets/a30af8f2-4bb1-4895-8f45-f1a4bfb5f002" />
-<img width="720" height="1600" alt="APP_SC_6" src="https://github.com/user-attachments/assets/2e71db64-4073-41f3-862c-e8de621a4ba3" />
-<img width="713" height="1600" alt="APP_SC_5" src="https://github.com/user-attachments/assets/917d3af5-b84b-4dde-a8de-b15cf68fa849" />
-<img width="699" height="1600" alt="APP_SC_4" src="https://github.com/user-attachments/assets/0e53773a-4cee-4012-988e-829128b4044f" />
-<img width="574" height="1599" alt="APP_SC_3" src="https://github.com/user-attachments/assets/d470d9e7-3f7b-4cb2-b4c3-b429a7a3025e" />
-<img width="649" height="1600" alt="App_SC_2" src="https://github.com/user-attachments/assets/b458139d-6d8e-4dd4-8e28-91b931ee81e4" />
-<img width="720" height="1600" alt="App_SC_1" src="https://github.com/user-attachments/assets/2a1124ab-4c99-4ec0-8ba1-82a252502c6a" />
+
+<img width="720" height="1600" alt="App_SC_1" src="https://github.com/user-attachments/assets/db16d623-5948-467e-9c87-8f8914bc8e53" />
+<img width="649" height="1600" alt="App_SC_2" src="https://github.com/user-attachments/assets/9b2d5d83-1f11-4e6f-b773-fed26a730b16" />
+<img width="574" height="1599" alt="APP_SC_3" src="https://github.com/user-attachments/assets/a746eedc-3378-4dbc-ab89-15329c10e3b5" />
+<img width="699" height="1600" alt="APP_SC_4" src="https://github.com/user-attachments/assets/f0fbbf5f-6555-4d3c-9669-8a87cdbdfe0f" />
+<img width="713" height="1600" alt="APP_SC_5" src="https://github.com/user-attachments/assets/8ea1c807-c9ca-4af3-9146-a2b810733757" />
+<img width="720" height="1600" alt="APP_SC_6" src="https://github.com/user-attachments/assets/de5fe38b-4226-426d-9365-943356cbbe28" />
+<img width="699" height="1600" alt="APP_SC_7" src="https://github.com/user-attachments/assets/55cd9c33-971f-4d31-8e2b-1e788674051a" />
+<img width="533" height="1600" alt="APP_SC_8" src="https://github.com/user-attachments/assets/7abea8b0-6baf-4397-8bb1-8597d5d13da9" />
+<img width="529" height="1600" alt="APP_SC_9" src="https://github.com/user-attachments/assets/c2c532fe-36ea-4ffb-a226-69fd116dc7f7" />
+
+
