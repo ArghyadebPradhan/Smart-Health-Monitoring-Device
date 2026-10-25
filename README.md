@@ -56,7 +56,6 @@ The diagram shows the intended architecture. Confirm that each block and data pa
 SmartBand_GitHub_Documentation/
 ├── README.md
 ├── LICENSE_CHOOSE.txt
-├── .gitignore
 ├── CONTRIBUTING.md
 ├── SECURITY.md
 ├── docs/
