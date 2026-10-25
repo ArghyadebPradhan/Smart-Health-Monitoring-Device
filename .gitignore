@@ -1,0 +1,43 @@
+# Arduino / embedded build artifacts
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
+*.d
+*.tmp
+*.bak
+*.orig
+
+# Local secrets and environment files
+secrets.h
+secrets.local.h
+.env
+.env.*
+!.env.example
+firebase-adminsdk*.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.keystore
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Android / mobile build artifacts (if applicable)
+.gradle/
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+node_modules/
+.expo/
+dist/

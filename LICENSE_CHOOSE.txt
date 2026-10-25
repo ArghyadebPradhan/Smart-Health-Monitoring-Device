@@ -1,0 +1,5 @@
+Choose a license before publishing the repository.
+
+If you want others to use, modify, and redistribute the project with minimal restrictions, the MIT License is a common option. If you want to require source disclosure for distributed derivative works, review GPL-family licenses. If you are unsure, review the license terms and any third-party library licenses before deciding.
+
+Do not publish a file named LICENSE with license text until you have chosen the license you intend to grant. Also check whether photos, schematics, generated app assets, and third-party code have separate license terms.
